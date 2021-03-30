@@ -16,6 +16,6 @@ language. I did a [dash dashboard](https://siads591-sscc.herokuapp.com/) with it
 
 Should've mentioned that I did a milestone project involving fish back in August 2020. You can see it [here](https://github.com/minsun-ss/argo_ocean_data_analysis).
 
-My ML milestone will involve uh... *checks notes* ... small cap stocks, I think. My partner thinks it's high time
+My ML milestone will involve uh... \*checks notes\* ... small cap stocks, I think. My partner thinks it's high time
 I enter the quant world, which I find mostly dubious. Is it really quantlike to think that like 99% of problems can
 be solved with a linear regression? 
